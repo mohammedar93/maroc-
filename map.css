@@ -153,18 +153,18 @@ header {
 .modal-content > * { position: relative; z-index: 5; }
 
 
-#tanger + .modal .modal-content { background-image: url('tangier/tanger-chefchaouen-888.jpg'); }
-#tetouan + .modal .modal-content { background-image: url('tetouane/Maroc-Tetouan-2024-03-138.webp'); }
-#chaouen + .modal .modal-content { background-image: url('chechouane/marocco_chefchaouen.jpg'); }
-#fes + .modal .modal-content { background-image: url('fes/tanneries-traditionnelles-medina-fes-maroc-6-600x399.jpg'); }
-#meknes + .modal .modal-content { background-image: url('meknes/Meknes\ medina.jpg'); }
-#rabat + .modal .modal-content { background-image: url('rabat/hassan.jpg'); }
-#casa + .modal .modal-content { background-image: url('CASA/MAARIF.jpg'); }
-#ifrane + .modal .modal-content { background-image: url('IFRAN/Neige_ifrane.jpg'); }
-#marrakech + .modal .modal-content { background-image: url('marakeche/marrakech-piazza-jemaa.jpg'); }
-#essa + .modal .modal-content { background-image: url('essouira/medina.jpg'); }
-#agadir + .modal .modal-content { background-image: url('agadir/telepherique.jpg'); }
-#ouarz + .modal .modal-content { background-image: url('ourzazat/AtlasStudio-2405.jpg'); }
+#tanger + .modal .modal-content { background-image: url('tanger-chefchaouen-888.jpg'); }
+#tetouan + .modal .modal-content { background-image: url('Maroc-Tetouan-2024-03-138.webp'); }
+#chaouen + .modal .modal-content { background-image: url('marocco_chefchaouen.jpg'); }
+#fes + .modal .modal-content { background-image: url('tanneries-traditionnelles-medina-fes-maroc-6-600x399.jpg'); }
+#meknes + .modal .modal-content { background-image: url('Meknes\ medina.jpg'); }
+#rabat + .modal .modal-content { background-image: url('hassan.jpg'); }
+#casa + .modal .modal-content { background-image: url('MAARIF.jpg'); }
+#ifrane + .modal .modal-content { background-image: url('Neige_ifrane.jpg'); }
+#marrakech + .modal .modal-content { background-image: url('marrakech-piazza-jemaa.jpg'); }
+#essa + .modal .modal-content { background-image: url('medina.jpg'); }
+#agadir + .modal .modal-content { background-image: url('telepherique.jpg'); }
+#ouarz + .modal .modal-content { background-image: url('AtlasStudio-2405.jpg'); }
 
 
 .modal-content h2 {
